@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cadastro2", "cadastro2\cadastro2.csproj", "{BF25328E-BE90-4571-A16A-A6505DC13A9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cadastro3", "cadastro3\cadastro3.csproj", "{F60F505D-5857-4ED2-9752-F48846379902}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp1", "BlazorApp1\BlazorApp1.csproj", "{9DE1A8FC-D91A-48E9-A6C4-EC89AFAC38DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF25328E-BE90-4571-A16A-A6505DC13A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF25328E-BE90-4571-A16A-A6505DC13A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF25328E-BE90-4571-A16A-A6505DC13A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF25328E-BE90-4571-A16A-A6505DC13A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F60F505D-5857-4ED2-9752-F48846379902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60F505D-5857-4ED2-9752-F48846379902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60F505D-5857-4ED2-9752-F48846379902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60F505D-5857-4ED2-9752-F48846379902}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE1A8FC-D91A-48E9-A6C4-EC89AFAC38DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE1A8FC-D91A-48E9-A6C4-EC89AFAC38DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE1A8FC-D91A-48E9-A6C4-EC89AFAC38DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE1A8FC-D91A-48E9-A6C4-EC89AFAC38DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
